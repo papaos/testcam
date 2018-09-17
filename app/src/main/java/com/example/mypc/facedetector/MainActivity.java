@@ -102,9 +102,6 @@ public class MainActivity extends Activity {
                 mImageView.setVisibility(View.VISIBLE);
                 mTextureView.setVisibility(View.INVISIBLE);
 
-                //button_img.performClick();
-                // yFinDraw = true;
-                //
                 //mTextureView.setVisibility(View.VISIBLE);
                 //mImageView.setVisibility(View.INVISIBLE);
             }
